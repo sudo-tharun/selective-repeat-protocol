@@ -9,7 +9,6 @@ public class SRs {
 	static ServerSocket Serversocket;
 	static DataInputStream dis;
 	static DataOutputStream dos;
-
 	public static void main(String[] args) throws SocketException {
 		try {
 			int a[] = { 30, 40, 50, 60, 70, 80, 90, 100 };
